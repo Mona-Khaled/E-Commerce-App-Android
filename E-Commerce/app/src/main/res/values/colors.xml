@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/holo_purple</color>
+    <color name="colorPrimaryDark">#2E4380</color>
+    <color name="colorAccent">@android:color/holo_purple</color>
+
+
+
+
+    <color name="black">#DAA8AD</color>
+    <color name="white">#FFFBAE</color>
+    <color name="lineForSpaces">#D6ADF7</color>
+    <color name="hintOfEditText">#842484</color>
+    <color name="colorOfForgetPasswordText">@android:color/holo_purple</color>
+    <color name="blueColorForLoginWithFaceBook">#2E4381</color>
+    <color name="backgroundOfPromotionCodeOfPaymentInfo">#E1E2E5</color>
+    <color name="redColorForLoginButton">@android:color/holo_purple</color>
+
+
+</resources>
